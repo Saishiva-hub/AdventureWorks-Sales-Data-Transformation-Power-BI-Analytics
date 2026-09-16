@@ -21,23 +21,25 @@ customers, products, and regional performance.
 
 ## Project Workflow
 
-1. Import dataset
-2. Clean data using Power Query
-3. Create relationships between tables
-4. Build data model
-5. Create DAX measures
-6. Create interactive dashboard
-7. Analyze business insights
-
+1. Import sales data from Excel
+2. Load Europe and North America sales data
+3. Clean and transform data using Power Query
+4. Remove unnecessary columns
+5. Rename and organize columns
+6. Append Europe and North America tables
+7. Import Country Code data
+8. Merge Country Code with the sales data
+9. Create the final transformed dataset
+10. Save the Power BI project
+    
 ## Key Analysis
 
-- Total Sales
-- Total Profit
-- Sales by Region
-- Sales by Product
-- Monthly Sales Trend
-- Top Customers
-- Profit Analysis
+- Sales data by country
+- Sales Territory analysis
+- Product category analysis
+- Product sub-category analysis
+- Product-level sales analysis
+- Country Code analysis
 
 ## Dashboard
 
